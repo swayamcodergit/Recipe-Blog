@@ -29,6 +29,3 @@ The project follows a simple file structure:
 
 ## License  
 This project is open-source and available under the [MIT License](LICENSE).  
-
-## Author  
-Designed for educational purposes.
